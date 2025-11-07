@@ -1,0 +1,16 @@
+# ============================================================ #
+#          SvarttMovementPlugin configurations!                #
+# ============================================================ #
+
+
+max-speed: 0.55          # normal walk/run max horizontal blocks per tick
+max-elytra-speed: 3.0    # Elytra max horizontal blocks per tick
+
+teleport-cooldown: 100   # milliseconds to prevent rubberband spam
+
+ignore-op: true          # Skips people with OP status
+
+notify-player: false     # recommended to be false, can spam players (mainly purpose of debug)
+messages:
+  ground-notifier-message: "§cYou are moving too fast. Slow down!"
+  elytra-notifier-message: "§cYou are moving too fast with Elytra. Slow down!"

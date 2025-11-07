@@ -1,0 +1,7 @@
+name: SvarttMovementPlugin
+version: '1.1.5'
+main: me.hatesvartt.svarttMovementPlugin.SvarttMovementPlugin
+api-version: '1.21'
+authors: [ hatesvartt ]
+description: Sets a max for Elytra Speed and Movement Hacks while not touching vanilla movements
+folia-supported: true
